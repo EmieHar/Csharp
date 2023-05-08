@@ -1,0 +1,15 @@
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.csproj.AssemblyReference.cache
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.AssemblyInfoInputs.cache
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.AssemblyInfo.cs
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.csproj.CoreCompileInputs.cache
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\bin\Debug\net7.0\exercice_compte_openclass.exe
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\bin\Debug\net7.0\exercice_compte_openclass.deps.json
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\bin\Debug\net7.0\exercice_compte_openclass.runtimeconfig.json
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\bin\Debug\net7.0\exercice_compte_openclass.dll
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\bin\Debug\net7.0\exercice_compte_openclass.pdb
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.dll
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\refint\exercice_compte_openclass.dll
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.pdb
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\exercice_compte_openclass.genruntimeconfig.cache
+C:\Users\Emili\OneDrive\Bureau\C#\exercice_compte_openclass\obj\Debug\net7.0\ref\exercice_compte_openclass.dll

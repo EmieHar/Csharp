@@ -1,0 +1,27 @@
+@{
+    ViewBag.Title = "Accueil";
+}
+
+<div class="page">
+    <div class="header">
+        <h1>Bienvenue sur mon site</h1>
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Accueil", "Index", "Home")</li>
+                <li>@Html.ActionLink("À propos", "About", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+        </nav>
+    </div>
+    <div class="content">
+        <h2>Titre de la section</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquam metus eu dui feugiat, at bibendum mi mollis. Donec sit amet elit quis sapien interdum posuere. Ut eget eleifend sapien. Pellentesque
+        </p>
+        <h2>Titre de la section</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquam metus eu dui feugiat, at bibendum mi mollis. Donec sit amet elit quis sapien interdum posuere. Ut eget eleifend sapien. Pellentesque
+        </p>
+    </div>
+    <div class="footer">
+        <p>Mon projet © @DateTime.Now.Year</p>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercice_compte_openclass/1.0.0": {
+        "runtime": {
+          "exercice_compte_openclass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercice_compte_openclass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
